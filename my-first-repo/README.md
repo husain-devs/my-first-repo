@@ -1,3 +1,0 @@
-# my-first-repo
-
-test
